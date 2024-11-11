@@ -27,4 +27,4 @@ function calculateEngravingPrice(message, pricePerWord) {
 }
 
 
-calculateEngravingPrice("JavaScript is in my blood", 10);
+console.log(calculateEngravingPrice("JavaScript is in my blood", 10));
